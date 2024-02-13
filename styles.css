@@ -1,0 +1,62 @@
+body {
+	background-color: black;
+	padding-bottom: 100em;
+	/*background-image: url(texture.png);*/
+	/*background-repeat: no-repeat;*/
+	/*background-image: url(nippert.jpg);*/
+	/*background-size: ;*/
+	/*background-position: ;*/
+	/*background-attachment: ;*/
+
+
+}
+
+.wrapper {
+	width: 960px;
+	margin: 1em auto;
+	border: 3px solid dimgray;
+ 	background-color: rgba(255, 255, 255, 0.8);
+/* Note: this background-color uses RGBA which can be semi-transparent. 
+   It goes in a range from 0 being clear to 1 being solid
+   The 0.8 makes it 80% solid */
+}
+
+
+header {
+	border-bottom: 3px solid dimgray;
+	margin-bottom: .5em;
+	font-size: 225%;
+}
+
+
+h2 {
+	font-size: 125%;
+}
+
+
+main {
+	font-size: 130%;
+}
+
+
+li {
+	font-family: monospace;
+	margin: .5em 3em;
+}
+
+
+img {
+
+}
+
+
+figure {
+	background-color: gainsboro;
+
+}
+
+
+figcaption {
+	padding: .5em;
+	font-style: italic;
+}
